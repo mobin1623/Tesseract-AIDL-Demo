@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TesseractAIDLDemo">
         <activity
-            android:screenOrientation="sensor"
+         
             android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
